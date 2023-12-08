@@ -1,6 +1,6 @@
 # <samp>init</samp>
 
-This data pack provides function tag `#minecraft:init` to be called on the initial `#minecraft:load` after the server process is started.
+This data pack provides `#minecraft:init` function tag, called on the initial `#minecraft:load` after server process startup.
 
 > [!CAUTION]
 > This data pack strongly depends on the internal implementation details of Minecraft and may not work in future versions!
